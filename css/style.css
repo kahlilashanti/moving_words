@@ -1,0 +1,15 @@
+.word {
+  margin-top: 5rem;
+  line-height: 22px;
+  font-size: 50px;
+  color: orange;
+}
+
+p {
+  padding: .5rem;
+}
+
+.static p {
+  font-size: 50px;
+  color: orange;
+}
